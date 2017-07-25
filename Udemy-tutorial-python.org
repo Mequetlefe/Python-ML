@@ -1,1 +1,14 @@
-test
+* Busquedas puntuales
+1) Jupyter (before know as IP[y] notebooks)
+* Procedimiento general
+1) Se entrena un sistema, clasificador(posible)
+   1) Dockers
+   2) Anaconda?
+* Dudas
+1) Por qué están tan obsesionados con segmentar?
+   1) Docker- tool for creating a virtual container
+* Procedimiento
+1) Se instalo anaconda
+   1) Anaconda is the world’s most popular and trusted data science ecosystem
+   2) Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science.
+   3) 
